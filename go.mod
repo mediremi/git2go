@@ -1,1 +1,1 @@
-module github.com/libgit2/git2go/v28
+module github.com/mediremi/git2go/v28
